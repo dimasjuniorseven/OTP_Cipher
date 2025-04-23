@@ -31,6 +31,7 @@ Dan tugas ini bukan hanya tentang memahami algoritma, tetapi juga tentang memper
 
 ## 📂 Struktur File
 
-- `otp_cipher.py` – Script implementasi OTP untuk enkripsi dan dekripsi yang saya buat sendiri
-- `README.md` – Dokumentasi tugas (file ini)
+- `OTP_Cipher.py` – Script implementasi OTP untuk enkripsi dan dekripsi yang saya buat sendiri
 - `OTP.py` - Sript implementasi OTP dari file milik dosen pengampu mata kuliah
+- `README.md` – Dokumentasi tugas (file ini)
+- Disajikan juga file dokumentasi script code dan hasil run dari Jupyter Notebook
